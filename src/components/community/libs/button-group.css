@@ -1,0 +1,58 @@
+.customButton {
+    -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 15%, 95% 0);
+    clip-path: polygon(10% 0%, 90% 0%, 100% 100%, 0 100%);
+    width: 150px;
+    height: 35px;
+    z-index: 100;
+    letter-spacing: 0.5px;
+    background-color: #94dcb6;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    font-weight: 200%;
+     box-shadow: inset;
+    border-color: transparent;
+    cursor: pointer;
+    outline: none;
+
+}
+.customButton:focus {
+    outline: none;
+}
+
+.customButton_active:focus {
+        outline: none;
+}
+.customButton:hover {
+
+    background-color: orange;
+}
+
+.customButton_active {
+    outline: none;
+    
+    /* border-style: hidden; */
+
+    z-index: 100;
+    /* border: none; */
+
+    border-color: transparent;
+    -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 15%, 95% 0);
+    clip-path: polygon(10% 0%, 90% 0%, 100% 100%, 0 100%);
+    box-shadow: inset;
+    background-color: "#ffffff";
+     /* border: 0px solid rgb(255, 255, 255);  */
+    font-weight: 200%;
+    width: 150px;
+    height: 35px;
+    letter-spacing: 0.5px;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    /* border-top-left-radius: 20%;
+    border-top-right-radius: 20%; */
+    cursor: pointer;
+}
+
+customButton_active:active {
+    background-color: "#FFF";
+    /* border: 1.5px solid rgb(25, 26, 24); */
+}

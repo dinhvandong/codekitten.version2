@@ -1,0 +1,157 @@
+[
+  {
+    "id": "gui.libraryTags.famous",
+    "description": "Tag for filtering a library for animals",
+    "defaultMessage": "Danh nhân"
+  },
+  {
+    "id": "gui.libraryTags.folk",
+    "description": "Tag for filtering a library for dance",
+    "defaultMessage": "Dân gian"
+  },
+  {
+    "id": "gui.libraryTags.meal",
+    "description": "Tag for filtering a library for effects",
+    "defaultMessage": "Đồ ăn Việt"
+  },
+  {
+    "id": "gui.libraryTags.robot",
+    "description": "Tag for filtering a library for fantasy",
+    "defaultMessage": "Người máy"
+  },
+  {
+    "id": "gui.libraryTags.plannet",
+    "description": "Tag for filtering a library for fashion",
+    "defaultMessage": "Hành tinh"
+  },
+  {
+    "id": "gui.libraryTags.monster",
+    "description": "Tag for filtering a library for food",
+    "defaultMessage": "Quái vật"
+  },
+  {
+    "id": "gui.libraryTags.spaceship",
+    "description": "Tag for filtering a library for indoors",
+    "defaultMessage": "Phi thuyền"
+  },
+  {
+    "id": "gui.libraryTags.game",
+    "description": "Tag for filtering a library for music",
+    "defaultMessage": "Trò chơi"
+  },
+  {
+    "id": "gui.libraryTags.ocean",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Đại dương"
+  },
+  {
+    "id": "gui.libraryTags.city",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Thành phố"
+  },
+  {
+    "id": "gui.libraryTags.universe",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Vũ trụ"
+  },
+  {
+    "id": "gui.libraryTags.stage",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Sân khấu"
+  },
+  {
+    "id": "gui.libraryTags.vehicle",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Xe cộ"
+  },
+  {
+    "id": "gui.libraryTags.animal",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Động vật"
+  },
+  {
+    "id": "gui.libraryTags.stadium",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Sân vận động"
+  },
+  {
+    "id": "gui.libraryTags.school",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Trường học"
+  },
+  {
+    "id": "gui.libraryTags.forest",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Rừng"
+  },
+  {
+    "id": "gui.libraryTags.farm",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Nông trại"
+  },
+  {
+    "id": "gui.libraryTags.construction",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Công trình"
+  },
+  {
+    "id": "gui.libraryTags.nature",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Thiên nhiên"
+  },
+  {
+    "id": "gui.libraryTags.person",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Người"
+  },
+  {
+    "id": "gui.libraryTags.vietnam",
+    "description": "Tag for filtering a library for outdoors",
+    "defaultMessage": "Việt Nam"
+  },
+  {
+    "id": "gui.libraryTags.animals",
+    "description": "Tag for filtering a library for animals",
+    "defaultMessage": "Animals"
+  },
+  {
+    "id": "gui.libraryTags.effects",
+    "description": "Tag for filtering a library for effects",
+    "defaultMessage": "Effects"
+  },
+  {
+    "id": "gui.libraryTags.loops",
+    "description": "Tag for filtering a library for loops",
+    "defaultMessage": "Loops"
+  },
+  {
+    "id": "gui.libraryTags.notes",
+    "description": "Tag for filtering a library for notes",
+    "defaultMessage": "Notes"
+  },
+  {
+    "id": "gui.libraryTags.percussion",
+    "description": "Tag for filtering a library for percussion",
+    "defaultMessage": "Percussion"
+  },
+  {
+    "id": "gui.libraryTags.space",
+    "description": "Tag for filtering a library for space",
+    "defaultMessage": "Space"
+  },
+  {
+    "id": "gui.libraryTags.sports",
+    "description": "Tag for filtering a library for sports",
+    "defaultMessage": "Sports"
+  },
+  {
+    "id": "gui.libraryTags.voice",
+    "description": "Tag for filtering a library for voice",
+    "defaultMessage": "Voice"
+  },
+  {
+    "id": "gui.libraryTags.wacky",
+    "description": "Tag for filtering a library for wacky",
+    "defaultMessage": "Wacky"
+  }
+]
